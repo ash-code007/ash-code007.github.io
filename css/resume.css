@@ -599,7 +599,7 @@ hr {
 }
 
 .footer {
-  background-image: linear-gradient(to right, #ba3204 0%, #601c05 100%);
+  background-image:  linear-gradient(45deg, #601c05, #ba3204);
   text-align: center;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
