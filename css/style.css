@@ -82,6 +82,7 @@ a:hover {
   margin-right: auto;
   transform: translateY(-50%);
   border-radius: 50%;
+  border-color:  #d2b81a;
   overflow: hidden;
   position: relative;
   z-index: 4;
