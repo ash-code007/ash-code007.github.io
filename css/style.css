@@ -114,7 +114,7 @@ a:hover {
 .profile-card__name {
   font-weight: 700;
   font-size: 30px;
-  color: #bf3e13;
+  color: #451404;
   margin-bottom: 15px;
 }
 
@@ -133,6 +133,7 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #451404;
   font-size: 18px;
   font-weight: 600;
 }
