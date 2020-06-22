@@ -316,7 +316,7 @@ a:hover {
 }
 
 .profile-card__button.button--blue {
-  background: linear-gradient(45deg, #3b87b3, #13547a);
+  background: linear-gradient(45deg, #601c05, #ba3204);
   box-shadow: 0px 4px 30px rgba(19, 127, 212, 0.4);
 }
 
@@ -325,7 +325,7 @@ a:hover {
 }
 
 .profile-card__button.button--red {
-  background: linear-gradient(45deg, #f12929, #d80a0a);
+  background: linear-gradient(45deg, #601c05, #ba3204);
   box-shadow: 0px 4px 30px rgba(226, 30, 30, 0.4);
 }
 
