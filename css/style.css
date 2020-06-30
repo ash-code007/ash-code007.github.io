@@ -235,6 +235,10 @@ a:hover {
   background: linear-gradient(45deg, #d5135a, #f05924);
   box-shadow: 0px 4px 10px rgba(223, 45, 70, 0.7);
 }
+.profile-card-social__item.kaggle {
+  background: linear-gradient(45deg, #00FFFF, #4C0B5F);
+  box-shadow: 0px 4px 10px rgba(223, 45, 70, 0.7);
+}
 
 .profile-card-social__item.medium {
   background: linear-gradient(45deg, #00ab6c, #08ca83);
