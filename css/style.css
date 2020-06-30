@@ -238,7 +238,7 @@ a:hover {
 
 .profile-card-social__item.kaggle {
   background: linear-gradient(45deg, #0b5e86, #4C0B5F);
-  box-shadow: 0px 4px 10px rgba(223, 45, 70, 0.7);
+  box-shadow: 0px 4px 10px rgba(63, 65, 67, 0.7);
 }
 
 .profile-card-social__item.medium {
