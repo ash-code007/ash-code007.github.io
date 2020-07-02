@@ -36,7 +36,7 @@ a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: linear-gradient(-20deg, #90a4ae 0%, #263238 100%);
+  background-image: linear-gradient(-20deg, #46de9b 0%, #0b5e86 100%);
   display: flex;
 }
 
@@ -338,7 +338,7 @@ a:hover {
 }
 
 .profile-card__button.button--red {
-  background: linear-gradient(45deg, #90a4ae, #263238);
+  background: linear-gradient(45deg, #0b5e86, #46de9b);
   box-shadow: 0px 4px 30px rgba(19, 127, 212, 0.4);
 }
 
