@@ -36,7 +36,7 @@ a:hover {
   padding: 50px 20px;
   padding-top: 100px;
   display: flex;
-  background-image: linear-gradient(-20deg, #263238 0%, #90a4ae 100%);
+  background-image: linear-gradient(-20deg, #90a4ae 0%, #263238 100%);
   display: flex;
 }
 
