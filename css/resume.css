@@ -208,6 +208,15 @@ hr {
   box-shadow: 0px 7px 30px rgba(19, 127, 212, 0.75);
 }
 
+.profile-card__button.button--red {
+  background: linear-gradient(45deg ,#B00B1E, #FF5226);
+  box-shadow: 0px 4px 30px rgba(176, 11, 30, 0.4);
+}
+
+.profile-card__button.button--red:hover {
+  box-shadow: 0px 7px 30px rgba(176, 11, 30, 0.75);
+}
+
 .row {
   display: -ms-flexbox;
   /* IE10 */
